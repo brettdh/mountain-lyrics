@@ -1,6 +1,5 @@
-# Mountain
-## by Hillsong United
-### Authors: Matt Crocker & Joel Houston
+## "Mountain" by Hillsong United
+#### Authors: Matt Crocker & Joel Houston
 
 As far as I know, the earliest recording of this song
 is a [YouTube video](https://www.youtube.com/watch?v=U6ASC_Dej5g) from Hillsong Conference 2012. It was
